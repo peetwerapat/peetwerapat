@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Werapat Saejong
 =======================================================================================================================================
 
-Junior Frontend Developer
+Junior Frontend Developer <p> <img src="https://komarev.com/ghpvc/?username=peetwerapat&label=Profile%20views&color=0e75b6&style=flat" alt="peetwerapat" /> </p>
 ------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peetwerapat&label=Profile%20views&color=0e75b6&style=flat" alt="peetwerapat" /> </p>
+
 
 I am a junior frontend developer with a background in film-camera develop&scan and computer service. After working as a business owner for 3 years, I realized that I wanted to pursue a career in programming, so I took course to develop my skills. 
 
