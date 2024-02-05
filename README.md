@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a junior developer with a background in film-camera develop&scan and computer service. After working as a business owner for 3 years, I realized that I wanted to pursue a career in programming, so I took course to develop my skills. I completed a full-stack develop bootcamp at Cleverse Academy Thailand, where I learned the fundamentals of programming and built projects using various languages and frameworks, which provided me with hands-on experience working with industry-standard tools and technologies. I am now seeking opportunities to work in a collaborative and challenging environment where I can contribute my skills and continue to learn and grow as a developer.
+I am a junior developer with a background in film-camera develop&scan and computer service. After working as a business owner for 3 years, I realized that I wanted to pursue a career in programming, so I took course to develop my skills. 
+
+I completed a full-stack develop bootcamp at Cleverse Academy Thailand, where I learned the fundamentals of programming and built projects using various languages and frameworks, which provided me with hands-on experience working with industry-standard tools and technologies. 
+
+I am now seeking opportunities to work in a collaborative and challenging environment where I can contribute my skills and continue to learn and grow as a developer.
 
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [werapatsaejong@gmail.com](mailto:werapatsaejong@gmail.com)
