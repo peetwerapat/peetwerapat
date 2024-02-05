@@ -17,7 +17,7 @@ I am now seeking opportunities to work in a collaborative and challenging enviro
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&api=)][linkedin]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&api=)](https://www.linkedin.com/in/peetwerapat/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
