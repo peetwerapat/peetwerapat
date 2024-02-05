@@ -13,7 +13,6 @@ I am now seeking opportunities to work in a collaborative and challenging enviro
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [werapatsaejong@gmail.com](mailto:werapatsaejong@gmail.com)
 ### 💻 Tech Stack and tools
-I specialize in:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nodejs,express,prisma,postgres,github,docker,postman,vscode,figma,ps" />
