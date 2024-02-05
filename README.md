@@ -15,7 +15,7 @@ I am now seeking opportunities to work in a collaborative and challenging enviro
 ### 💻 Tech Stack and tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nodejs,express,prisma,postgres,github,docker,postman,vscode,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,materialui,nodejs,express,prisma,postgres,docker,postman,figma,ps" />
   </a>
 </p>
                     
