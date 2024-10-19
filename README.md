@@ -9,7 +9,7 @@ I am a junior frontend developer with a background in film-camera develop&scan a
 
 I completed a full-stack develop bootcamp at Cleverse Academy Thailand, where I learned the fundamentals of programming and built projects using various languages and frameworks, which provided me with hands-on experience working with industry-standard tools and technologies. 
 
-I am now seeking opportunities to work in a collaborative and challenging environment where I can contribute my skills and continue to learn and grow as a developer.
+I am now junior frontend developer at Partnerhub Thailand.
 
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [werapatsaejong@gmail.com](mailto:werapatsaejong@gmail.com)
