@@ -1,13 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Werapat Saejong
 =======================================================================================================================================
 
-Junior Developer
+Software Engineer & Devops Engineer | Full-stack & Infrastructure | Go | Nest.JS | Docker | Terraform | Linux | Next.JS
 ------------------
 
 
-I am a junior developer with over **1 year of professional experience** in frontend and backend development. Previously, I worked in film-camera development & scanning and computer service, and also ran my own business for 3 years. My passion for technology led me to transition into software development, where I have gained hands-on experience building real-world projects using modern frameworks and tools.
 
-I specialize in building scalable web applications with a focus on clean, maintainable code, and I continuously improve my skills in full-stack development.  
+Software engineer with experience building modern web applications and backend systems, with a strong interest in infrastructure and DevOps practices.
+
+I work across the full stack, focusing primarily on backend development using Go and Node.js to design APIs, services, and scalable system architectures. I apply clean architecture principles to build maintainable and reliable backend systems.
+
+I also have experience developing web applications with React, Next.js, and TypeScript, which helps me design better APIs and improve collaboration between frontend and backend systems.
+
+Beyond application development, I work with infrastructure and automation tools such as Docker, Terraform, and Linux to manage deployments and build reliable environments across both cloud and on-premise infrastructure.
+
+I enjoy understanding systems end-to-end from application code to networking, infrastructure, and deployment pipelines and continuously improving how software is built, deployed, and operated.
 
 * 🌍  Based in Bangkok  
 * ✉️  Contact me at [werapatsaejong@gmail.com](mailto:werapatsaejong@gmail.com)
